@@ -1,0 +1,34 @@
+
+#recipe3 h1 {
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+img {
+    float: left;
+    margin: 30px;
+    border-radius: 20px;
+}
+.describe {
+    height: 300px;
+    margin-top: 200px;
+
+}
+.describe h2 {
+    font-size: 30px;
+}
+.describe p {
+    font-size:20px
+}
+.amount h2{
+    font-size: 30px;
+}
+.amount ul {
+    font-size:20px;
+}
+.step h2 {
+    font-size:30px;
+}
+.steps ol {
+    font-size:20px;
+}
