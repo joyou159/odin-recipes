@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(193, 79, 79);
+}
+#waiter img {
+width: 400px;
+height: auto;
+float: left;
+}
+.menu {
+    margin-top: 100px;
+}
+.mainTitle{
+    font-size:50px;
+    font-weight:bold; 
+}
+button {
+    width: 200px;
+    font-size: 30px;
+    height: 50px;
+    margin: 50px;
+    background-color: black;
+    border-radius: 10px;
+}
+a {
+    color:white;
+    font-weight: bold;
+}
